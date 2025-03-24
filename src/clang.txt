@@ -1,0 +1,51 @@
+error: expected ';' after expression
+error: use of undeclared identifier 'x'
+error: expected identifier or '('
+error: expected ')'
+error: too many arguments to function call, expected 1, have 2
+error: cannot initialize a variable of type 'int *' with an rvalue of type 'double'
+error: redefinition of 'main'
+error: implicit declaration of function 'printf' is invalid in C99
+error: incompatible pointer to integer conversion assigning to 'int' from 'char *'
+error: expected '}'
+error: expected parameter declarator
+error: invalid operands to binary expression ('int' and 'const char [6]')
+error: array size is too large
+error: variable length array declaration not allowed at file scope
+error: control may reach end of non-void function
+error: invalid preprocessing directive
+error: expected expression
+error: function definition is not allowed here
+error: invalid operands to binary expression ('int' and 'float')
+error: conflicting types for 'func'
+error: incomplete definition of type 'struct MyStruct'
+error: dereferencing pointer to incomplete type
+error: 'break' statement not in loop or switch
+error: cannot jump from switch statement to this case label
+error: 'return' with a value in function returning void
+error: expected ';' after top level declarator
+error: incompatible block pointer types
+error: control reaches end of non-void function
+error: label at end of compound statement
+error: expected string literal in pragma directive
+error: storage class specified for parameter 'x'
+warning: format specifies type 'int' but the argument has type 'double'
+warning: expression result unused
+warning: implicit conversion from 'double' to 'int' changes value
+warning: control reaches end of non-void function
+warning: variable 'y' is uninitialized when used here
+warning: unused variable 'x'
+warning: division by zero is undefined
+warning: shifting a negative signed value is undefined
+warning: format string is not a string literal
+warning: 'gets' is deprecated: This function is dangerous
+warning: left shift count is negative
+warning: right shift count is negative
+warning: implicit declaration of function 'malloc' is invalid in C99
+warning: incompatible pointer types initializing 'char *' with an expression of type 'const char [6]'
+warning: function declared 'noreturn' should not return
+warning: 'return' with a value in function returning void
+warning: comparison between pointer and integer
+warning: address of stack memory associated with local variable 'buf' returned
+warning: incompatible pointer types passing 'int *' to parameter of type 'float *'
+warning: returning 'int *' from a function with result type 'double *' converts between pointers to incompatible types

@@ -1,0 +1,51 @@
+error: ‘i’ undeclared (first use in this function)  
+error: ‘struct myStruct’ has no member named ‘value’  
+error: expected ‘;’ before ‘}’ token  
+error: assignment to expression with array type  
+error: expected identifier or ‘(’ before numeric constant  
+error: invalid type argument of ‘->’ (have ‘int’)  
+error: array subscript is not an integer  
+error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘volatile’  
+error: storage size of ‘var’ isn’t known  
+error: expected ‘while’ before ‘;’ token  
+error: ‘break’ statement not within loop or switch  
+error: lvalue required as left operand of assignment  
+error: request for member ‘x’ in something not a structure or union  
+error: redeclaration of ‘int main’ with no linkage  
+error: too few arguments to function ‘func’  
+error: too many arguments to function ‘func’  
+error: expected ‘;’ before ‘return’  
+error: expected ‘:’ before ‘=’ token  
+error: expected ‘{’ at end of input  
+error: ‘sizeof’ applied to incomplete type ‘struct MyStruct’  
+error: label ‘loop_end’ used but not defined  
+error: void function ‘func’ should not return a value  
+error: ‘const int’ has no member named ‘value’  
+error: expected ‘)’ before ‘;’ token  
+error: conflicting types for ‘function_name’  
+error: expected ‘;’ before ‘int’  
+error: invalid application of ‘sizeof’ to a function type  
+error: expected primary-expression before ‘[’ token  
+error: dereferencing pointer to incomplete type  
+error: expected specifier-qualifier-list before ‘int’  
+error: ‘x’ defined but not used  
+error: invalid use of undefined type ‘struct Node’  
+error: ‘NULL’ undeclared (first use in this function)  
+error: invalid suffix "f" on integer constant  
+error: expected declaration or statement at end of input  
+error: declaration of ‘x’ as array of voids  
+error: ISO C++ forbids comparison between pointer and integer  
+warning: function returns address of local variable  
+warning: control reaches end of non-void function  
+warning: ignoring return value of ‘scanf’, declared with attribute warn_unused_result  
+warning: initialization from incompatible pointer type  
+warning: assignment makes pointer from integer without a cast  
+warning: division by zero  
+warning: left shift count is negative  
+warning: right shift count is negative  
+warning: implicit declaration of function ‘malloc’  
+warning: incompatible implicit declaration of built-in function ‘printf’  
+warning: ‘return’ with a value in function returning void  
+warning: pointer targets in passing argument 1 differ in signedness  
+warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’  
+warning: array subscript has type ‘char’  

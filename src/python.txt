@@ -1,0 +1,20 @@
+SyntaxError: unexpected EOF while parsing
+SyntaxError: invalid syntax
+SyntaxError: EOL while scanning string literal
+IndentationError: unexpected indent
+IndentationError: unindent does not match any outer indentation level
+NameError: name 'x' is not defined
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+TypeError: 'int' object is not callable
+TypeError: cannot unpack non-iterable int object
+ValueError: invalid literal for int() with base 10: 'abc'
+IndexError: list index out of range
+KeyError: 'my_key'
+AttributeError: 'NoneType' object has no attribute 'split'
+ImportError: No module named 'unknown_module'
+ModuleNotFoundError: No module named 'random123'
+ZeroDivisionError: division by zero
+RecursionError: maximum recursion depth exceeded
+RuntimeError: maximum recursion depth exceeded while calling a Python object
+OverflowError: int too large to convert to float
+OSError: [Errno 2] No such file or directory: 'missing_file.txt'

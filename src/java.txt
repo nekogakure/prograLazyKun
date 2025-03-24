@@ -1,0 +1,28 @@
+error: ';' expected
+error: cannot find symbol
+error: incompatible types: String cannot be converted to int
+error: missing return statement
+error: unreachable statement
+error: package does not exist
+error: class, interface, or enum expected
+error: method does not override or implement a method from a supertype
+error: incompatible types: unexpected return value
+error: constructor MyClass in class MyClass cannot be applied to given types
+error: non-static variable this cannot be referenced from a static context
+error: variable x might not have been initialized
+error: illegal start of expression
+error: array required, but int found
+error: 'try' without 'catch', 'finally' or resource declarations
+error: 'else' without 'if'
+error: missing method body, or declare abstract
+error: bad operand types for binary operator '+'
+error: local variable x is accessed from within inner class; needs to be declared final
+error: incompatible types: possible lossy conversion from double to int
+error: missing return in lambda expression
+error: reference to 'super' is ambiguous
+error: cannot make a static reference to the non-static field x
+error: cannot assign a value to final variable 'y'
+warning: [unchecked] unchecked conversion
+warning: [deprecation] The method is deprecated
+warning: redundant cast
+warning: [serial] serializable class MyClass has no definition of serialVersionUID

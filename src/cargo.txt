@@ -1,0 +1,32 @@
+error[E0425]: cannot find value `x` in this scope
+error[E0369]: binary operation `+` cannot be applied to type `&str`
+error[E0609]: no field `value` on type `MyStruct`
+error[E0308]: mismatched types
+error[E0433]: failed to resolve: use of undeclared crate or module `std`
+error[E0599]: no method named `push` found for struct `i32` in the current scope
+error[E0382]: borrow of moved value: `x`
+error[E0716]: temporary value dropped while borrowed
+error[E0499]: cannot borrow `x` as mutable more than once at a time
+error[E0507]: cannot move out of `x` because it is borrowed
+error[E0596]: cannot borrow `x` as mutable, as it is not declared as mutable
+error[E0658]: use of unstable library feature 'async_closure'
+error[E0277]: the trait bound `MyType: std::fmt::Display` is not satisfied
+error[E0659]: `MyStruct` is not a function, tuple struct or tuple variant
+error[E0614]: type `MyStruct` cannot be dereferenced
+error[E0275]: overflow evaluating the requirement `MyStruct: Trait`
+error[E0015]: calls in constants are limited to constant functions, tuple structs and tuple variants
+error[E0759]: mutable reference to `self` is not allowed in a `const fn`
+error[E0520]: `MyTrait` requires `MyType` but `MyStruct` does not implement it
+error[E0119]: conflicting implementations of trait `MyTrait` for type `MyType`
+warning: unused variable: `x`
+warning: unused import: `std::collections::HashMap`
+warning: value assigned to `x` is never read
+warning: function `my_function` is never used
+warning: unused `#[must_use]` attribute
+warning: the function `foo` is marked `pub`, but not used anywhere
+warning: `unwrap()` called on `None` value
+warning: redundant clone: the receiver is already a reference
+warning: variable does not need to be mutable
+warning: unused return value of `std::mem::drop` that must be used
+warning: panic message is not a string literal
+warning: calling `std::mem::replace` with the same value for `old` and `new`
